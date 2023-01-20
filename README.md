@@ -4,8 +4,8 @@
 </h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" src="https://github-readme-stats-61qdveq2j-fanwangm.vercel.app/api?username=TheDarkLach&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.zohan.tech/api?username=TheDarkLach&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-61qdveq2j-fanwangm.vercel.app/api/top-langs/?username=TheDarkLach&layout=compact&theme=midnight-purple&count_private=true" />
+  <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=TheDarkLach&layout=compact&theme=midnight-purple&count_private=true" />
 </a>
